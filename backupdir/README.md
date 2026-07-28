@@ -193,7 +193,6 @@ egrep '(World$)' newfile
 ## OUTPUT
 
 ![Alt text](image/newfile15.png)
-
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
 
