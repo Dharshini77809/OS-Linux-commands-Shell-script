@@ -360,17 +360,17 @@ www. mrcet.... com
 cat urllist.txt | tr -d ' '
  ## OUTPUT
 
-.....
+![Alt text](backupdir/backupdir/image/11.png)
  
 cat urllist.txt | tr -d ' ' | tr -s '.'
 ## OUTPUT
 
-
+![Alt text](backupdir/backupdir/image/12.png)
 
 #Backup commands
 tar -cvf backup.tar *
 ## OUTPUT
-
+![Alt text](backupdir/backupdir/image/13.png)
 
 mkdir backupdir
  
