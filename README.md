@@ -360,7 +360,7 @@ www. mrcet.... com
 cat urllist.txt | tr -d ' '
  ## OUTPUT
 
-
+.....
  
 cat urllist.txt | tr -d ' ' | tr -s '.'
 ## OUTPUT
