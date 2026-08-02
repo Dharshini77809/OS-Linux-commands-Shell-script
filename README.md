@@ -72,7 +72,7 @@ cat > file11
 Hello world
 This is my world
 ^d
-``cat > file22`
+``cat > file22
 
 ```
 1001 | Ram | 10000 | HR
@@ -90,8 +90,8 @@ cut -c1-3 file11
 
 cut -d "|" -f 1 file22
 ## OUTPUT
-![Alt text](image/f2.png)
 
+![Alt text](image/f2.png)
 
 cut -d "|" -f 2 file22
 ## OUTPUT
@@ -294,8 +294,8 @@ seq 10 | sed -n '2,~4p'
 seq 3 | sed '2a hello'
 ## OUTPUT
 
-
 ![Alt text](image/newfile33.png)
+
 seq 2 | sed '2i hello'
 ## OUTPUT
 ![Alt text](image/newfile34.png)
