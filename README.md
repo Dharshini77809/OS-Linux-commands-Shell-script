@@ -42,8 +42,8 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
 ![Alt text](../../a1.png)
+
 
 cat < file2
 ## OUTPUT
@@ -53,15 +53,15 @@ cat < file2
 cmp file1 file2
 
 ## OUTPUT
- ![Alt text](image/cmp.png)
+
 
 comm file1 file2
  ## OUTPUT
-![Alt text](image/comm.png)
+
  
 diff file1 file2
 ## OUTPUT
-![Alt text](image/outputcatfile.png)
+
 
 #Filters
 
